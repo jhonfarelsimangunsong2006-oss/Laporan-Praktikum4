@@ -11,6 +11,7 @@ int main() {
                 cout<<"bukan angka";
                 break;
             }else if(a==0){
+                    cout<<"masukkan bilangan selain nol";
                 break;
             }else{
                 if(a>0){
@@ -28,4 +29,5 @@ int main() {
 
     return 0;
 }
+
 
