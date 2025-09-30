@@ -11,7 +11,7 @@ int main() {
                 cout<<"bukan angka";
                 break;
             }else if(a==0){
-
+                break;
             }else{
                 if(a>0){
                     if(a%2==0){
@@ -28,3 +28,4 @@ int main() {
 
     return 0;
 }
+
